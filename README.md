@@ -10,6 +10,8 @@
 
 [Read the complete team paper (PDF)](CCNY-DNA-Detectives-Unpublished-Team-Paper.pdf)
 
+[View the team presentation (PDF, 21 slides)](CCNY-DNA-Detectives-Team-Presentation.pdf)
+
 ## Research question
 
 Does knocking down the Domeless receptor through RNA interference reduce methoprene-induced melanotic tumor formation in *Drosophila melanogaster*?
@@ -46,3 +48,9 @@ The paper discusses limitations including the small Domeless control group, vari
 ## Full report
 
 [Open the original, complete PDF](CCNY-DNA-Detectives-Unpublished-Team-Paper.pdf) for the Introduction, Methods, Results, Discussion, figures, and references. The original document is retained without edits and is identified here as an unpublished team research report.
+
+## Team presentation
+
+[Open the presentation slides (PDF, 21 slides)](CCNY-DNA-Detectives-Team-Presentation.pdf)
+
+*Group 2 - RNAi knockdown of Domeless in Drosophila melanogaster* is the team's presentation of the same research project. It covers the background, hypothesis, experimental design, results, limitations, and future directions. The original slides are preserved without edits; the individual contributions listed above refer to the written paper.
