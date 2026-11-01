@@ -32,12 +32,24 @@ As credited in the paper's Methods, Mr. Luu prepared the fly stocks and administ
 
 The paper discusses limitations including the small Domeless control group, variability between control groups, and the use of a single juvenile hormone mimic. These findings summarize the team report; no independent reanalysis is presented here.
 
-## My contribution - Wenhao Jia
+## My contributions - Wenhao Jia
+
+### Written paper
 
 - Contributed to the mechanism and RNA interference (RNAi) content in the Introduction.
 - Contributed to the Results section.
 - Prepared Figure 1.
 - Contributed to the Conclusion.
+
+### Presentation
+
+My contributions covered the following presentation sections:
+
+- Mechanism.
+- RNA interference (RNAi).
+- Results: Figure 1.
+- Limitations.
+- Future directions.
 
 ## Selected figure
 
@@ -53,4 +65,4 @@ The paper discusses limitations including the small Domeless control group, vari
 
 [Open the presentation slides (PDF, 21 slides)](CCNY-DNA-Detectives-Team-Presentation.pdf)
 
-*Group 2 - RNAi knockdown of Domeless in Drosophila melanogaster* is the team's presentation of the same research project. It covers the background, hypothesis, experimental design, results, limitations, and future directions. The original slides are preserved without edits; the individual contributions listed above refer to the written paper.
+*Group 2 - RNAi knockdown of Domeless in Drosophila melanogaster* is the team's presentation of the same research project. It covers the background, hypothesis, experimental design, results, limitations, and future directions. The original slides are preserved without edits. My contributions to the written paper and presentation are listed separately above.
