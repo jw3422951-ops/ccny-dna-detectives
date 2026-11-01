@@ -1,0 +1,22 @@
+{
+  "project": "CCNY DNA Detectives - Domeless / JAK-STAT Team Project",
+  "paper_title": "Effects of JAK-STAT pathway on melanotic tumors induced by juvenile hormone mimics",
+  "program": "CCNY DNA Detectives",
+  "project_type": "Team research project",
+  "publication_status": "Unpublished team research report",
+  "publication_note": "This repository hosts a portfolio copy of the original team paper.",
+  "authors_in_original_order": [
+    "Christopher Wong",
+    "Wenhao Jia",
+    "Fuad Ahmed",
+    "Sneha Sarkar"
+  ],
+  "paper": "CCNY-DNA-Detectives-Unpublished-Team-Paper.pdf",
+  "portfolio_author": "Wenhao Jia",
+  "individual_contributions": [
+    "Contributed to the mechanism and RNA interference (RNAi) content in the Introduction.",
+    "Contributed to the Results section.",
+    "Prepared Figure 1.",
+    "Contributed to the Conclusion."
+  ]
+}
