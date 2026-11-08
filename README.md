@@ -1,68 +1,34 @@
 # CCNY DNA Detectives
 
-## Domeless RNAi and Methoprene-Induced Melanotic Tumors
+An unpublished team study asking whether knocking down the Domeless receptor through RNA interference (RNAi) reduces methoprene-induced melanotic tumor formation in fruit flies (*Drosophila melanogaster*).
 
-**Unpublished team research report**
+**Original paper** · *Effects of JAK-STAT pathway on melanotic tumors induced by juvenile hormone mimics*
 
-**Paper:** *Effects of JAK-STAT pathway on melanotic tumors induced by juvenile hormone mimics*
+**Authors in order** · Christopher Wong, Wenhao Jia, Fuad Ahmed, Sneha Sarkar
 
-**Authors, in original order:** Christopher Wong, Wenhao Jia, Fuad Ahmed, Sneha Sarkar.
+[Team paper (PDF)](CCNY-DNA-Detectives-Unpublished-Team-Paper.pdf) · [Team presentation (PDF, 21 slides)](CCNY-DNA-Detectives-Team-Presentation.pdf) · [Figure 1](#figure-1)
 
-[Read the complete team paper (PDF)](CCNY-DNA-Detectives-Unpublished-Team-Paper.pdf)
+## My contributions
 
-[View the team presentation (PDF, 21 slides)](CCNY-DNA-Detectives-Team-Presentation.pdf)
-
-## Research question
-
-Does knocking down the Domeless receptor through RNA interference reduce methoprene-induced melanotic tumor formation in *Drosophila melanogaster*?
-
-The team's hypothesis was that reducing Domeless-mediated JAK-STAT signaling would decrease tumor formation after exposure to the juvenile hormone mimic methoprene.
+- **Paper.** I contributed to the mechanism and RNAi portions of the Introduction, the Results, and the Conclusion. I prepared Figure 1.
+- **Presentation.** I contributed the sections on mechanism, RNAi, the first result, limitations, and future directions.
 
 ## Study design
 
-The study compared three RNAi groups, **Domeless, Ebony, and White**, under two conditions: methoprene treatment and an ethanol vehicle control. The team assessed melanotic tumor incidence and pupal eclosion, summarized vial-level percentages, and used pairwise chi-square comparisons of pooled counts.
+We hypothesized that reducing Domeless-mediated JAK-STAT signaling would lower tumor incidence after exposure to methoprene, a juvenile hormone mimic.
 
-As credited in the paper's Methods, Mr. Luu prepared the fly stocks and administered the treatments. The contributions listed below describe my role in the team project.
+The team compared three RNAi groups (Domeless, Ebony, and White) under methoprene treatment and an ethanol vehicle control. We recorded tumor incidence and adult emergence from pupae, summarized percentages by vial, and used pairwise chi-square comparisons of pooled counts. Mr. Luu prepared the fly stocks and administered the treatments.
 
-## Main findings
+## What the team found
 
-- The paper reports higher tumor incidence and lower pupal eclosion in the methoprene-treated groups than in the ethanol controls.
-- The reported tumor comparison between Domeless RNAi and White RNAi was not statistically significant: **chi-square = 2.72; p = 0.10**.
-- The results did not support the predicted reduction in tumor formation under the tested conditions. A non-significant comparison does not by itself rule out JAK-STAT involvement or establish an alternative pathway.
+The paper reports higher tumor incidence and lower adult emergence in methoprene-treated groups than in the ethanol controls. The tumor comparison between Domeless RNAi and White RNAi was inconclusive under the tested conditions (χ² = 2.72, p = 0.10).
 
-The paper discusses limitations including the small Domeless control group, variability between control groups, and the use of a single juvenile hormone mimic. These findings summarize the team report; no independent reanalysis is presented here.
+A small Domeless control group, variation between controls, and the use of a single juvenile hormone mimic limited what we could conclude about the pathway.
 
-## My contributions - Wenhao Jia
+## Figure 1
 
-### Written paper
+![Tumor incidence by RNAi group under methoprene treatment and ethanol control](assets/figure-01-tumor-incidence.png)
 
-- Contributed to the mechanism and RNA interference (RNAi) content in the Introduction.
-- Contributed to the Results section.
-- Prepared Figure 1.
-- Contributed to the Conclusion.
+*Figure from the team paper showing tumor incidence across the three RNAi groups. The paper includes the complete figure caption.*
 
-### Presentation
-
-My contributions covered the following presentation sections:
-
-- Mechanism.
-- RNA interference (RNAi).
-- Results: Figure 1.
-- Limitations.
-- Future directions.
-
-## Selected figure
-
-![Figure 1: tumor incidence by RNAi group and treatment, reproduced from the original team paper.](assets/figure-01-tumor-incidence.png)
-
-*Figure 1 from the original team paper, prepared by Wenhao Jia. The figure and its labels are reproduced unchanged. See the PDF for the complete caption and results.*
-
-## Full report
-
-[Open the original, complete PDF](CCNY-DNA-Detectives-Unpublished-Team-Paper.pdf) for the Introduction, Methods, Results, Discussion, figures, and references. The original document is retained without edits and is identified here as an unpublished team research report.
-
-## Team presentation
-
-[Open the presentation slides (PDF, 21 slides)](CCNY-DNA-Detectives-Team-Presentation.pdf)
-
-*Group 2 - RNAi knockdown of Domeless in Drosophila melanogaster* is the team's presentation of the same research project. It covers the background, hypothesis, experimental design, results, limitations, and future directions. The original slides are preserved without edits. My contributions to the written paper and presentation are listed separately above.
+[Back to my GitHub profile](https://github.com/jw3422951-ops)
