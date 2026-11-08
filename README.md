@@ -1,8 +1,8 @@
 # CCNY DNA Detectives
 
-An unpublished team study asking whether knocking down the Domeless receptor through RNA interference (RNAi) reduces methoprene-induced melanotic tumor formation in fruit flies (*Drosophila melanogaster*).
+Our final team paper for the spring 2026 DNA Detectives course at CCNY, asking whether knocking down the Domeless receptor through RNA interference (RNAi) reduces methoprene-induced melanotic tumor formation in fruit flies (*Drosophila melanogaster*).
 
-**Original paper** · *Effects of JAK-STAT pathway on melanotic tumors induced by juvenile hormone mimics*
+**Original paper · Unpublished** · *Effects of JAK-STAT pathway on melanotic tumors induced by juvenile hormone mimics*
 
 **Authors in order** · Christopher Wong, Wenhao Jia, Fuad Ahmed, Sneha Sarkar
 
