@@ -10,14 +10,17 @@ Our final team paper for the spring 2026 DNA Detectives course at CCNY, asking w
 
 ## My contributions
 
+- **Microscopy.** I worked with my teammates to examine larvae from several experimental groups under a microscope and count how many had visible melanotic tumors.
 - **Paper.** I contributed to the mechanism and RNAi portions of the Introduction, the Results, and the Conclusion. I prepared Figure 1.
 - **Presentation.** I contributed the sections on mechanism, RNAi, the first result, limitations, and future directions.
+
+In the course, I learned how a tissue-specific GAL4 driver activates a UAS-controlled RNAi construct to reduce expression of a target gene.
 
 ## Study design
 
 We hypothesized that reducing Domeless-mediated JAK-STAT signaling would lower tumor incidence after exposure to methoprene, a juvenile hormone mimic.
 
-The team compared three RNAi groups (Domeless, Ebony, and White) under methoprene treatment and an ethanol vehicle control. We recorded tumor incidence and adult emergence from pupae, summarized percentages by vial, and used pairwise chi-square comparisons of pooled counts. Mr. Luu prepared the fly stocks and administered the treatments.
+The team compared three RNAi groups (Domeless, Ebony, and White) under methoprene treatment and an ethanol vehicle control. The Cg-GAL4 driver activated RNAi in the fly fat body and hemocytes. We scored larvae for visible tumors at the wandering third-instar and prepupal stages. Mr. Luu prepared the fly stocks, administered the treatments, and assessed adult emergence. We summarized percentages by vial and used pairwise chi-square tests to compare pooled counts.
 
 ## What the team found
 
